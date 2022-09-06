@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://deija.netlify.app](https://deija.netlify.app)
-
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **folk medicine, herbalism, and CSS**
 
 - ⚡ Fun fact **I love growing things and repairing dirt!**
 
