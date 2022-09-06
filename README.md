@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deija</h1>
 <h3 align="center">a full-stack software engineer from Missouri</h3>
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **full-stack app building**
 
 - 💬 Ask me about **folk medicine, herbalism, and CSS**
 
