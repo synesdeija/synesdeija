@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deija</h1>
 <h3 align="center">a full-stack software engineer from Missouri</h3>
 
-- 🌱 I’m currently learning **TailwindUI, React, and EJS templating**
+- 🌱 I’m currently learning **REACT, Data Structures, Algorithms, and Data Visualization**
 
-- 💬 Ask me about **folk medicine, herbalism, HTML, JavaScript, and CSS**
+- 💬 Ask me about **using Docker for local db development!**
 
-- ⚡ Fun fact **I love growing things and repairing dirt!**
+- ⚡ Fun fact **I make candles as a winter hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
