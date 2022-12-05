@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Deija</h1>
-<h3 align="center">a full-stack software engineer from Missouri</h3>
+<h2 align="center">Hi 👋, I'm Deija</h3>
+<h4 align="center">I use she/they pronouns
+<h3 align="center">I am a Full-stack Engineer from Missouri</h3>
 
 - 🌱 I’m currently learning **REACT, Data Structures, Algorithms, and Data Visualization**
 
 - 💬 Ask me about **using Docker for local db development!**
 
-- ⚡ Fun fact **I make candles as a winter hobby**
+- ⚡ Soapbox ** Donate your old, unworn winter clothing to folx in need. Gloves, hats, socks, coats, scarves. It's cold outside. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
