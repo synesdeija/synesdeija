@@ -1,12 +1,12 @@
-<h2 align="center">Hi 👋, I'm Deija</h3>
+<h2 align="center">Hi 👋, I'm Deija, a Full Stack Software Engineer from Missouri</h3>
 <h4 align="center">I use she/they pronouns
-<h3 align="center">I am a Full-stack Engineer from Missouri</h3>
+<h3 align="center">I am presently open to work!</h3>
 
-- 🌱 I’m currently learning **REACT, Data Structures, Algorithms, and Data Visualization**
+- 🌱 I’m currently learning **Data Structures, Algorithms, and Data Visualization**
 
-- 💬 Ask me about **using Docker for local db development!**
+- 💬 Ask me about **using Docker for local database development!**
 
-- ⚡ Soapbox ** Donate your old, unworn winter clothing to folx in need. Gloves, hats, socks, coats, scarves. It's cold outside. **
+- ⚡ Soapbox ** Donate your old, extra-space-occupying winter clothing to folx in need this winter! Gloves, hats, socks, coats, scarves. Warmth should not be a luxury. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
