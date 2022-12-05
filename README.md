@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm Deija, a Full Stack Software Engineer from Missouri</h3>
-<h4 align="center">I use she/they pronouns
-<h3 align="center">I am presently open to work!</h3>
+<h2 align="center">Howdy 👋, I'm synesdeija! (she/they pronouns) </h2>
+<h3 align="center">a Full Stack Software Engineer from Missouri</h3>
+<h3 align="center">Hire me! 😎</h3>
 
 - 🌱 I’m currently learning **Data Structures, Algorithms, and Data Visualization**
 
