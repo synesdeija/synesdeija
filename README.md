@@ -6,7 +6,7 @@
 
 - 💬 Ask me about:  **using Docker for low latency local database development!**
 
-- 🧼 Soapbox:  **Spring is coming; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollenators, no food.**
+- 🧼 Soapbox:  **Spring is coming; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollinators, no food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
