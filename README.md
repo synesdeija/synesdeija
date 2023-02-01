@@ -2,11 +2,11 @@
 <h3 align="center">a Full Stack Software Engineer from Missouri</h3>
 <h3 align="center">Hire me! 😎</h3>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, and Data Visualization**
+- 🌱 I’m currently learning **Data Visualization and TypeScript**
 
-- 💬 Ask me about **using Docker for local database development!**
+- 💬 Ask me about **using Docker for low latency local database development!**
 
-- ⚡ Soapbox ** Donate your old, extra-space-occupying winter clothing to folx in need this winter! Gloves, hats, socks, coats, scarves. Warmth should not be a luxury. **
+- ⚡🧼 Soapbox **Spring is coming; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollenators, no food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
