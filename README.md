@@ -1,8 +1,8 @@
-<h2 align="center">Howdy 👋, I'm synesdeija! (she/they pronouns) </h2>
+<h2 align="center">Ahoy, mateys 🏴‍☠️ I'm Deija (pronounced with a long "e")! (she/they pronouns) </h2>
 <h3 align="center">a Full Stack Software Engineer from Missouri</h3>
-<h3 align="center">Hire me! 😎</h3>
+<h3 align="center">Waitin' for the right job to come along</h3>
 
-- 🌱 I’m currently learning:  **Pest Control but IRL**
+- 🌱 I’m currently learning:  **Pest Control...but IRL**
 
 - 💬 Ask me about:  **TailwindCSS**
 
