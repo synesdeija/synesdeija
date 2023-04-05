@@ -2,16 +2,17 @@
 <h3 align="center">a Full Stack Software Engineer from Missouri</h3>
 <h3 align="center">Hire me! 😎</h3>
 
-- 🌱 I’m currently learning:  **Data Visualization and TypeScript**
+- 🌱 I’m currently learning:  **Pest Control but IRL**
 
-- 💬 Ask me about:  **using Docker for low latency local database development!**
+- 💬 Ask me about:  **TailwindCSS**
 
-- 🧼 Soapbox:  **Spring is coming; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollinators, no food.**
+- 🧼 Soapbox:  **Spring is here; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollinators, no food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deijnutz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deijnutz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deija morgan" height="30" width="40" /></a>
+<a href="https://deija.space" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
