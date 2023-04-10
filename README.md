@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning:  **Pest Control...but IRL**
 
-- 💬 Ask me about:  **TailwindCSS**
+- 💬 Ask me about:  **companion planting for garden success**
 
 - 🧼 Soapbox:  **Spring is here; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollinators, no food.**
 
