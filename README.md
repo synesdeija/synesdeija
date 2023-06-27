@@ -1,12 +1,12 @@
-<h2 align="center">Ahoy, mateys, 🏴‍☠️ I'm Deija (pronounced with a long "e")! (she/they pronouns) </h2>
-<h3 align="center">An incredible, hilarious Full Stack Software Engineer from Missouri</h3>
-<h3 align="center">waitin' for the right job to come along</h3>
+<h2 align="center">Heyo, I'm Deija! (she/they pronouns) </h2>
+<h3 align="center">A sharp-witted, hilarious Full Stack Software Engineer from Missouri</h3>
+
 
 - 🌱 I’m currently learning:  **Pest Control...but IRL**
 
-- 💬 Ask me about:  **companion planting for garden success**
+- 💬 Ask me about:  **MongoDB Atlas**
 
-- 🧼 Soapbox:  **Spring is here; consider planting native flowers and milkweed or butterfly weed (so beautiful in shades of orange) in your yard to Give Bees (and butterflies) a Chance! No pollinators, no food.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
