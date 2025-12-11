@@ -1,17 +1,17 @@
-<h2 align="center">Heyo, I'm Deija! (she/they pronouns) </h2>
-<h3 align="center">A sharp-witted, hilarious Full Stack Software Engineer from Missouri</h3>
+<h2 align="center">Heyo, I'm Deija! </h2>
+<h3 align="center">A sharp-witted, hilarious Full Stack Software Engineer </h3>
 
 
-- 🌱 I’m currently learning:  **Pest Control...but IRL**
+- 🌱 I’m currently learning:  **about the American Revolution**
 
-- 💬 Ask me about:  **MongoDB Atlas**
+- 💬 Ask me about:  **Alan Moore**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deijnutz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deijnutz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deija morgan" height="30" width="40" /></a>
+//<a href="https://twitter.com/deijnutz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deijnutz" height="30" width="40" /></a>
+//<a href="https://linkedin.com/in/deija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deija morgan" height="30" width="40" /></a>
 
 </p>
 
